@@ -1,4 +1,4 @@
-# test-repo-nimeshsoni
+hello from branch B
 
 ## Project Description
 This repository is created to demonstrate fundamental Git operations and collaborative workflows.
